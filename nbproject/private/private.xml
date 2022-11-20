@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/OSPanel/domains/localhost/schedule/classes/Teacher.php</file>
+            <file>file:/C:/OSPanel/domains/localhost/schedule/classes/Gruppa.php</file>
+            <file>file:/C:/OSPanel/domains/localhost/schedule/classes/Classroom.php</file>
+            <file>file:/C:/OSPanel/domains/localhost/schedule/delete-schedule.php</file>
+            <file>file:/C:/OSPanel/domains/localhost/schedule/add-plan.php</file>
+            <file>file:/C:/OSPanel/domains/localhost/schedule/add-schedule.php</file>
+            <file>file:/C:/OSPanel/domains/localhost/schedule/save-user.php</file>
+            <file>file:/C:/OSPanel/domains/localhost/schedule/classes/GruppaMap.php</file>
+            <file>file:/C:/OSPanel/domains/localhost/schedule/classes/SubjectMap.php</file>
+            <file>file:/C:/OSPanel/domains/localhost/schedule/_profile.php</file>
+            <file>file:/C:/OSPanel/domains/localhost/schedule/list-plan.php</file>
+            <file>file:/C:/OSPanel/domains/localhost/schedule/index.php</file>
+            <file>file:/C:/OSPanel/domains/localhost/schedule/delete-plan.php</file>
+            <file>file:/C:/OSPanel/domains/localhost/schedule/save-gruppa.php</file>
+            <file>file:/C:/OSPanel/domains/localhost/schedule/template/login.php</file>
+            <file>file:/C:/OSPanel/domains/localhost/schedule/profile-teacher.php</file>
+            <file>file:/C:/OSPanel/domains/localhost/schedule/classes/ClassroomMap.php</file>
+            <file>file:/C:/OSPanel/domains/localhost/schedule/classes/UserMap.php</file>
+            <file>file:/C:/OSPanel/domains/localhost/schedule/list-teacher.php</file>
+            <file>file:/C:/OSPanel/domains/localhost/schedule/classes/LessonPlan.php</file>
+            <file>file:/C:/OSPanel/domains/localhost/schedule/classes/Helper.php</file>
+            <file>file:/C:/OSPanel/domains/localhost/schedule/classes/User.php</file>
+            <file>file:/C:/OSPanel/domains/localhost/schedule/add-teacher.php</file>
+            <file>file:/C:/OSPanel/domains/localhost/schedule/classes/OtdelMap.php</file>
+            <file>file:/C:/OSPanel/domains/localhost/schedule/template/menu.php</file>
+            <file>file:/C:/OSPanel/domains/localhost/schedule/_formUser.php</file>
+            <file>file:/C:/OSPanel/domains/localhost/schedule/classes/TeacherMap.php</file>
+            <file>file:/C:/OSPanel/domains/localhost/schedule/list-gruppa.php</file>
+            <file>file:/C:/OSPanel/domains/localhost/schedule/classes/LessonPlanMap.php</file>
+            <file>file:/C:/OSPanel/domains/localhost/schedule/save-schedule.php</file>
+            <file>file:/C:/OSPanel/domains/localhost/schedule/classes/SpecialMap.php</file>
+            <file>file:/C:/OSPanel/domains/localhost/schedule/save-plan.php</file>
+            <file>file:/C:/OSPanel/domains/localhost/schedule/classes/Schedule.php</file>
+            <file>file:/C:/OSPanel/domains/localhost/schedule/list-schedule.php</file>
+            <file>file:/C:/OSPanel/domains/localhost/schedule/classes/Otdel.php</file>
+            <file>file:/C:/OSPanel/domains/localhost/schedule/secure.php</file>
+            <file>file:/C:/OSPanel/domains/localhost/schedule/add-gruppa.php</file>
+            <file>file:/C:/OSPanel/domains/localhost/schedule/classes/ScheduleMap.php</file>
+            <file>file:/C:/OSPanel/domains/localhost/schedule/auth.php</file>
+            <file>file:/C:/OSPanel/domains/localhost/schedule/list-teacher-schedule.php</file>
+            <file>file:/C:/OSPanel/domains/localhost/schedule/template/header.php</file>
+            <file>file:/C:/OSPanel/domains/localhost/schedule/view-gruppa.php</file>
+        </group>
+    </open-files>
+</project-private>
